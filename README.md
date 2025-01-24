@@ -18,6 +18,13 @@ This tool lets you analyze selected images, charts, or shapes in Excel using Ope
 
 ## How to Set It Up
 
+### 0. Download Files
+To get started, download the necessary VBA files:
+
+- [Download JsonConverter.bas](./JsonConverter.bas)
+- [Download mAIObjectAnalyzer.bas](./mAIObjectAnalyzer.bas)
+
+
 ### 1. Add the VBA Code
 1. Open Excel and press `ALT + F11` to open the VBA Editor.
 2. Click on **File → Import File...**.
