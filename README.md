@@ -2,19 +2,19 @@
 
 This tool lets you analyze selected images, charts, or shapes in Excel using OpenAI. It’s easy to use, and you’ll get insights right in your workbook.
 
----
+
 
 ## Video Tutorial (Coming Soon!)
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
 
----
+
 
 ## Features
 - Works with charts, images, and shapes in Excel.
 - Stores your custom prompt and results for easy reuse.
 - Sends data to OpenAI’s API and fetches answers.
 
----
+
 
 ## How to Set It Up
 
@@ -27,7 +27,7 @@ This tool lets you analyze selected images, charts, or shapes in Excel using Ope
 
 4. Save your file as a **macro-enabled workbook** (`.xlsm`).
 
----
+
 
 ### 2. Get Your OpenAI API Key
 1. Go to [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys).
@@ -41,7 +41,7 @@ This tool lets you analyze selected images, charts, or shapes in Excel using Ope
 
 If you forget to set your API key, the macro will remind you with a message and provide the link.
 
----
+
 
 ### 3. Use Named Ranges (Optional)
 You can create two named ranges in your workbook for better usability:
@@ -56,7 +56,7 @@ You can create two named ranges in your workbook for better usability:
 
 If you don’t define these ranges, the macro will use a default prompt and show the result in a message box.
 
----
+
 
 ### 4. Make the Macro Available Everywhere (Optional)
 If you want this macro in all your Excel files:
@@ -68,7 +68,7 @@ If you want this macro in all your Excel files:
 2. Import the two files into the **Personal Macro Workbook** in the VBA Editor.
 3. Save and close the VBA Editor. Now, the macro will work in any Excel file.
 
----
+
 
 ### 5. Add a Button or Toolbar Shortcut
 #### Add to Quick Access Toolbar:
@@ -80,7 +80,7 @@ If you want this macro in all your Excel files:
 1. Go to the **Developer Tab** and insert a button.
 2. Right-click the button, select **Assign Macro**, and choose `AnalyzeSelectedObjectWithOpenAI`.
 
----
+
 
 ## How to Use
 1. Select an **image**, **shape**, or **chart** in Excel.
@@ -91,7 +91,7 @@ If you want this macro in all your Excel files:
 3. Edit the prompt (if needed) in the InputBox and click **OK**.
 4. Check the result in the named range `OutputCell` (if defined) or in a message box.
 
----
+
 
 ## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
