@@ -162,7 +162,7 @@ Private Function GetPromptText(fallbackPrompt As String) As String
         "1) Update the prompt if desired (text below). Click OK to proceed, Cancel to abort." & vbCrLf & _
         "2) The prompt is also stored in the named range ""PromptCell"" for future runs." & vbCrLf & _
         "3) The analysis result will be placed in the named range ""OutputCell"", if it exists." & vbCrLf & vbCrLf & _
-        "ROMPT:"
+        "PROMPT:"
     
     ' Show an InputBox with multiline instructions + the current prompt
     userPrompt = InputBox(instructions, "OpenAI Prompt", promptCellValue)
