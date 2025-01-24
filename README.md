@@ -22,7 +22,7 @@ This tool lets you analyze selected images, charts, or shapes in Excel using Ope
 1. Open Excel and press `ALT + F11` to open the VBA Editor.
 2. Click on **File → Import File...**.
 3. Import these two files into your project:
-   - `mJsonConverter.bas`
+   - `JsonConverter.bas`
    - `mAIObjectAnalyzer.bas`
 
 4. Save your file as a **macro-enabled workbook** (`.xlsm`).
