@@ -4,8 +4,8 @@ This tool lets you analyze selected images, charts, or shapes in Excel using Ope
 
 
 
-## Video Tutorial (Coming Soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/M6fhBQSgm3k/0.jpg)](https://youtu.be/M6fhBQSgm3k)
 
 
 
